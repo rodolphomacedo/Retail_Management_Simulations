@@ -1,4 +1,4 @@
-# Retail_Management_Simulations
+# Retail Management Simulations
 
 ![retail](retail_photo.jpg)
 
